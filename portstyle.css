@@ -1,6 +1,8 @@
 body{
     background-color: black;
     color: white;
+    background-image: url('estrada.jpg');
+    background-size: cover;
 }
 
 #foto{
